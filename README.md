@@ -1,7 +1,5 @@
 <b><h1><center><font size="6">Chest X-Ray (Pneumonia) Binary Classification: <br> - CNN with Transfer Learning <br> (Tensorflow 2.0 & Keras)</font></center></h1></b>
 
-<img src="https://www.collinsdictionary.com/images/full/xray_560923156_1000.jpg" width="620" height="360" align="center"/>
-
 ## <b>1. | Introduction</b> 👋
   * Problem Overview 👨‍💻 </br>
     * 👉 The <mark><b>goal of this notebook</mark></b> is to <mark><b>determine which samples are from patients with Pneumonia</mark></b>.
